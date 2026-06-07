@@ -1,0 +1,16 @@
+Order_ID,Date,Customer_Name,City,Region,Product,Category,Quantity,Unit_Price,Discount_%,Revenue,Profit,Payment_Method,Order_Status,Customer_Segment
+1000001,2023-01-15,Rahul Sharma,Hyderabad,South,Laptop,Electronics,2,52000,10,104000,25000,UPI,Delivered,Consumer
+1000002,2023-01-18,Priya Reddy,Bangalore,South,Mobile,Electronics,3,21000,5,63000,14000,Credit Card,Delivered,Corporate
+1000003,2023-01-20,Amit Verma,Mumbai,West,Headphones,Accessories,5,2200,8,11000,3000,Debit Card,Shipped,Consumer
+1000004,2023-01-23,Sneha Gupta,Delhi,North,Keyboard,Accessories,4,1600,5,6400,1800,UPI,Delivered,Home Office
+1000005,2023-01-28,Kiran Kumar,Chennai,South,Monitor,Electronics,2,12500,12,25000,6000,Net Banking,Delivered,Corporate
+1000006,2023-02-05,Ananya Rao,Pune,West,Tablet,Electronics,3,26000,7,78000,19000,Credit Card,Delivered,Consumer
+1000007,2023-02-08,Rohit Mehta,Jaipur,North,Printer,Office,2,10500,5,21000,5000,Debit Card,Delivered,Corporate
+1000008,2023-02-11,Pooja Patel,Kolkata,East,Speaker,Accessories,6,3600,4,21600,5500,UPI,Delivered,Consumer
+1000009,2023-02-18,Arjun Reddy,Visakhapatnam,South,Smart Watch,Wearables,4,8500,8,34000,9000,Credit Card,Delivered,Home Office
+1000010,2023-02-22,Lakshmi Devi,Ahmedabad,West,Camera,Electronics,1,31000,10,31000,8000,Net Banking,Delivered,Consumer
+1000011,2023-02-25,Sanjay Das,Patna,East,SSD,Storage,5,7200,6,36000,9000,UPI,Shipped,Corporate
+1000012,2023-03-04,Meera Nair,Coimbatore,South,Hard Disk,Storage,3,6500,5,19500,4500,Credit Card,Delivered,Consumer
+1000013,2023-03-07,Nikhil Sharma,Surat,West,Router,Networking,7,4200,4,29400,7000,Debit Card,Delivered,Corporate
+1000014,2023-03-10,Deepak Singh,Lucknow,North,Projector,Office,2,18500,9,37000,10000,UPI,Delivered,Home Office
+1000015,2023-03-15,Shreya Jain,Chandigarh,North,Power Bank,Accessories,8,1600,3,12800,3200,Credit Card,Delivered,Consumer
