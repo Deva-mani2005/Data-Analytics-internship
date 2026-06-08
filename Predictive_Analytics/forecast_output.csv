@@ -1,0 +1,14 @@
+
+Date,Product,Category,Region,Units_Sold,Sales,Profit,Marketing_Spend,Discount_Percentage,Customer_Count,Website_Visits,Holiday_Season
+2023-01-01,Laptop,Electronics,South,120,6000000,1200000,50000,5,100,5000,No
+2023-02-01,Laptop,Electronics,South,135,6750000,1350000,55000,8,115,5500,No
+2023-03-01,Laptop,Electronics,South,150,7500000,1500000,60000,10,130,6000,No
+2023-04-01,Laptop,Electronics,South,145,7250000,1450000,58000,7,125,5800,No
+2023-05-01,Laptop,Electronics,South,160,8000000,1600000,65000,6,140,6500,No
+2023-06-01,Laptop,Electronics,South,170,8500000,1700000,70000,5,150,7000,No
+2023-07-01,Laptop,Electronics,South,180,9000000,1800000,75000,8,165,7500,No
+2023-08-01,Laptop,Electronics,South,190,9500000,1900000,80000,10,180,8000,No
+2023-09-01,Laptop,Electronics,South,200,10000000,2000000,85000,12,195,8500,Yes
+2023-10-01,Laptop,Electronics,South,220,11000000,2200000,90000,15,220,9000,Yes
+2023-11-01,Laptop,Electronics,South,240,12000000,2400000,95000,18,250,9500,Yes
+2023-12-01,Laptop,Electronics,South,260,13000000,2600000,100000,20,280,10000,Yes
