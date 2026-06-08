@@ -1,0 +1,11 @@
+Employee_ID,Employee_Name,Department,Designation,Gender,Age,Salary,Bonus,Experience,City,State,Joining_Date,Performance_Rating,Attendance_Percentage
+101,Rahul Sharma,IT,Software Engineer,Male,25,55000,5000,3,Hyderabad,Telangana,2022-01-15,4.5,95
+102,Priya Reddy,HR,HR Executive,Female,28,45000,4000,2,Bangalore,Karnataka,2023-03-10,4.2,92
+103,Amit Verma,IT,Developer,Male,30,,6000,5,Mumbai,Maharashtra,2020-06-20,4.8,98
+104,Sneha Gupta,Finance,Accountant,Female,32,60000,7000,4,Delhi,Delhi,2021-08-12,4.6,96
+105,Rahul Sharma,IT,Software Engineer,Male,25,55000,5000,3,Hyderabad,Telangana,2022-01-15,4.5,95
+106,Kiran Kumar,HR,Recruiter,Male,29,48000,4500,,Chennai,Tamil Nadu,2022-05-25,4.1,89
+107,Ananya Rao,Finance,Financial Analyst,Female,27,62000,6500,5,,Andhra Pradesh,2021-11-30,4.7,97
+108,Rohit Mehta,IT,System Engineer,Male,31,58000,5500,4,Jaipur,Rajasthan,2020-09-18,4.3,93
+109,Pooja Patel,HR,HR Executive,Female,26,,3500,3,Kolkata,West Bengal,2023-02-14,4.0,90
+110,Arjun Reddy,Finance,Senior Analyst,Male,35,65000,8000,6,Visakhapatnam,Andhra Pradesh,2019-07-22,4.9,99
